@@ -2,7 +2,6 @@
 
 
 - 📚 Etudando Análise e Desenvolvimento de Sistemas 
-- 🌱 Back-end
 
 <div align="center">
 
